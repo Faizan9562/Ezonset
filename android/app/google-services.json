@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839707782439",
+    "project_id": "ezonset",
+    "storage_bucket": "ezonset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839707782439:android:f1533a650a0518cb6dcd02",
+        "android_client_info": {
+          "package_name": "com.example.ezonset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839707782439-a4962ocpa1po8imsh8b4pofnk7aoo48f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcoZQBkj-A_MLHR0cPASBa1AHMrR6X40s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839707782439-a4962ocpa1po8imsh8b4pofnk7aoo48f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
