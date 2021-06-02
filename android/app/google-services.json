@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157886107523",
+    "project_id": "crisislink-d05c8",
+    "storage_bucket": "crisislink-d05c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157886107523:android:9d2cf6497722e158b5b0b6",
+        "android_client_info": {
+          "package_name": "com.example.crisislink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157886107523-8rrt0hg7avah3m8hu24p9n2ihgg94gg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvn2uKEjcm-Sk2iWUiPTAR2o7IcUvm_xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157886107523-8rrt0hg7avah3m8hu24p9n2ihgg94gg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

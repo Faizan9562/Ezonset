@@ -1,0 +1,17 @@
+enum AuthStatus {
+  firstTime,
+  authenticating,
+  notLoggedIn,
+  loggedInhome,
+  noProfile,
+  noFriend,
+  profileOne,
+  profileTwo,
+  profileThree,
+  profileFour,
+  profileFive,
+  profileSix,
+  profileSeven,
+  stemp,
+  tm,
+}
